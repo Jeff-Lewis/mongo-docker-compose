@@ -30,7 +30,7 @@ The MongoDB environment consistes of the following docker containers
 
 ### Check out the repository
 
-    git clone git@github.com:singram/mongo-docker-compose.git
+    https://github.com/VaclavPalik/mongo-docker-compose
     cd mongo-docker-compose
 
 
